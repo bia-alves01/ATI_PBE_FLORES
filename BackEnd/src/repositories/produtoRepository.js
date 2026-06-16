@@ -1,4 +1,4 @@
-import  connection  from "../configs/Database.js";
+import connection from "../configs/Database.js";
 
 const produtoRepository = {
     criar: async (produto) => {
