@@ -12,16 +12,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-<<<<<<< HEAD
-    "test": "echo \"Error: no test specified\" && exit 1"
-=======
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node src/server.js"
->>>>>>> dff3b5e (:sparkles: feat: atualizações)
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module"
 }
-
